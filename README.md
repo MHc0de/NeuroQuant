@@ -29,7 +29,10 @@ The imaging assistant follows the workflow below:
 8. Track the ROI using ORB feature matching when the microscope stage is moved.
 9. Adjust the displayed ROI according to microscope magnification.
 
-<img width="1146" height="1361" alt="image" src="https://github.com/user-attachments/assets/d6648da3-0325-43e7-a219-6be0b9b05480" />
+<img width="598" height="691" alt="image" src="https://github.com/user-attachments/assets/4598d665-22fc-47c7-abb8-85a305e2d17d" />
+<img width="649" height="238" alt="image" src="https://github.com/user-attachments/assets/f4517986-c941-4461-8f80-0e59973f449d" />
+
+
 
 ## Main Features
 
